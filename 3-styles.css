@@ -10,7 +10,7 @@ body {
 :root {
     --red-color: #ed1941;
     --border-red: #aa3147;
-    --border-color: 2px solid #aa3147;
+    --border-color: 2px solid var(--border-red);
     --nav-btn-width: 8rem;
     --nav-btn-padding: 2.6rem 1rem;
 }
